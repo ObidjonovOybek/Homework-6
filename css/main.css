@@ -1,0 +1,50 @@
+body {
+    background-color: #4B9DCC;
+}
+
+
+.wheather {
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    color: #4B9DCC;
+
+
+}
+
+.basic {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    align-items: center;
+    width: 950px;
+    margin: 0 auto;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.cloud {
+    width: 200px;
+    height: 180px;
+
+}
+
+.sun {
+    width: 130px;
+    height: 180px;
+
+
+}
+
+p {
+    text-align: center;
+    color: #4B9DCC;
+}
